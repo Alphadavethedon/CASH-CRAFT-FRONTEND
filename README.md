@@ -43,7 +43,7 @@ https://cashcraftapp.netlify.app
 ## 📦 Setup
 
 ```bash
-git clone https://github.com/Alphadavethedon/Cash-Craft-Loan-application
+git clone https://github.com/Alphadavethedon/CASH-CRAFT-FRONTEND
 cd Cash-Craft-Loan-application
 npm install
 npm run dev
